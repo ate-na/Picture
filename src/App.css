@@ -3,7 +3,9 @@
     padding: 0;
     box-sizing: border-box;
   }
+
   .App {
+  font-size:larger;
      display: flex; 
      flex-direction: column; 
      justify-content: center; 
